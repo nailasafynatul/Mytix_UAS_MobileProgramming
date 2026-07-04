@@ -21,10 +21,6 @@ MyTix adalah aplikasi mobile berbasis Android yang dikembangkan sebagai proyek U
 - Profile Pengguna
 - Pencarian Event
 
-## Screenshot
-
-Tambahkan screenshot aplikasi di sini.
-
 ## Teknologi
 
 - Kotlin
