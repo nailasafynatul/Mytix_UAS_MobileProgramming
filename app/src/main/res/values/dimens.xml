@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="space_md">16dp</dimen>
+    <dimen name="space_lg">20dp</dimen>
+
+    <dimen name="radius_lg">20dp</dimen>
+
+    <dimen name="text_h1">22sp</dimen>
+    <dimen name="text_body">14sp</dimen>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Background -->
+    <color name="background">#f8f8ff</color>
+    <color name="card_background">#ffffff</color>
+
+    <!-- Text -->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_hint">#94A3B8</color>
+    <color name="text_disabled">#BDBDBD</color>
+
+    <!-- Brand -->
+    <color name="mytix_pink">#C71585</color>
+    <color name="profile_button">#FBCFE8</color>
+
+    <!-- Blue -->
+    <color name="blue_primary">#2563EB</color>
+
+    <!-- Yellow -->
+    <color name="yellow">#FACC15</color>
+
+</resources>
