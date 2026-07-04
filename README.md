@@ -42,7 +42,6 @@ app
 ├── fragments
 ├── models
 ├── repository
-└── utils
 ```
 
 ## Cara Menjalankan
