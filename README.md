@@ -41,7 +41,7 @@ app
 ├── database
 ├── fragments
 ├── models
-├── repository
+└── repository
 ```
 
 ## Cara Menjalankan
